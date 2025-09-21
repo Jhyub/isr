@@ -65,6 +65,6 @@ src/script/js/*.h
 .ccls
 
 # clangd stuff
-.clangd/
+.clangd
 
 isr
